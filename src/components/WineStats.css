@@ -1,0 +1,19 @@
+.mean-stats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.mean-table {
+    border-collapse: collapse;
+}
+
+
+.mean-table th, .mean-table td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+  
